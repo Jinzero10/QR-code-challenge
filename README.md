@@ -4,17 +4,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-
-## Overview
-
-### Screenshot
-
-![](./images/qr-code-component.png)
+- [Links](#links)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Jinzero10/QR-code-challenge)
+- Live Site URL: [Add live site URL here](https://qr-code-challenge-jinzero.netlify.app/)
